@@ -1,0 +1,53 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxp-pYanOg63_FoAgSlnJCLanxj6ipaz7hfA&s");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-flow: column;
+
+    
+}
+.boxed-text{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    align-items: center;
+}
+
+h4{
+    text-align: center;
+    color:rgb(255, 255, 255);
+}
+h1{
+    text-align: center;
+    color:rgb(255, 255, 255);
+}
+.Hello{
+    align-items: center;
+    height: 250px;
+}
+.b7bk{
+    align-items: center;
+    height: 250px;
+}
+.boxed-text2{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    align-items: center;
+    background-color: rgb(231, 127, 234);
+}
+.boxed-text2 input{
+    display: block;
+    margin: 10px auto;
+    align-items: center;
+}
+.boxed-text2 button{
+    display: block;
+    margin: 10px auto;
+    align-items: center;
+}
+.boxed-text2 h2{
+    text-align: center;
+    color:rgb(255, 255, 255);
+}
